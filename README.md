@@ -7,6 +7,9 @@ What was acheived:
 
 Please use the following link to view the deployed application:
 
+ https://franklinamanda34.github.io/challenge_1/
+ 
+
 
 The structure of this project really focuses on semantic elements
 
